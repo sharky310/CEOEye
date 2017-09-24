@@ -1,0 +1,10 @@
+C:\Users\Michel\source\repos\CEOEye\CEOEye\bin\Debug\CEOEye.exe.config
+C:\Users\Michel\source\repos\CEOEye\CEOEye\bin\Debug\CEOEye.exe
+C:\Users\Michel\source\repos\CEOEye\CEOEye\bin\Debug\CEOEye.pdb
+C:\Users\Michel\source\repos\CEOEye\CEOEye\obj\Debug\CEOEye.csprojResolveAssemblyReference.cache
+C:\Users\Michel\source\repos\CEOEye\CEOEye\obj\Debug\CEOEye.Form1.resources
+C:\Users\Michel\source\repos\CEOEye\CEOEye\obj\Debug\CEOEye.Properties.Resources.resources
+C:\Users\Michel\source\repos\CEOEye\CEOEye\obj\Debug\CEOEye.csproj.GenerateResource.Cache
+C:\Users\Michel\source\repos\CEOEye\CEOEye\obj\Debug\CEOEye.csproj.CoreCompileInputs.cache
+C:\Users\Michel\source\repos\CEOEye\CEOEye\obj\Debug\CEOEye.exe
+C:\Users\Michel\source\repos\CEOEye\CEOEye\obj\Debug\CEOEye.pdb
