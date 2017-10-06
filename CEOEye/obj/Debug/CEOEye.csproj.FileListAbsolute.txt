@@ -24,3 +24,4 @@ C:\Users\Michel\source\repos\CEOEye\CEOEye\bin\Debug\CrystalDecisions.ReportAppS
 C:\Users\Michel\source\repos\CEOEye\CEOEye\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
 C:\Users\Michel\source\repos\CEOEye\CEOEye\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
 C:\Users\Michel\source\repos\CEOEye\CEOEye\bin\Debug\stdole.dll
+C:\Users\Michel\source\repos\CEOEye\CEOEye\obj\Debug\CEOEye.Presentacion.AltaCliente.resources

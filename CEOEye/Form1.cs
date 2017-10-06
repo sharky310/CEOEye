@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CEOEye.Presentacion;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -31,6 +32,12 @@ namespace CEOEye
         private void InicializarControlesPropios()
         {
             barraInfo.Text = "Todo funcionando correctamente";
+        }
+
+        private void altaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AltaCliente formCliente = new AltaCliente();
+            formCliente.Show(this);
         }
     }
 }
