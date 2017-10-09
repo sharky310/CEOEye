@@ -51,11 +51,25 @@ namespace CEOEye.Presentacion
 
         private void buttonGuardar_Click(object sender, EventArgs e)
         {
+            //Comprobar falta de DNI
+            //Comprobar errores de telefono
+            //Comprobar errores de mail
+
+            //Incrementar notas y contacto
+
             cliente = new Cliente(textDNI.Text,textNombre.Text,textApellidos.Text,textTelefono.Text,textDireccion.Text
                 ,textMail.Text,"");
+
             ClienteDAO clienteDao = new ClienteDAO();
             clienteDao.AgregarCliente(cliente);
+
             cleanForm();
+
+            if (checkFicha.Checked)
+            {
+                Bibliotecario escritor = new Bibliotecario();
+                escritor.generarInformeAlta(cliente);
+            }
         
         }
     }

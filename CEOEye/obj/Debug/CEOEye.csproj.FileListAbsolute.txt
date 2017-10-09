@@ -26,3 +26,6 @@ C:\Users\Michel\source\repos\CEOEye\CEOEye\obj\Debug\CEOEye.csproj.GenerateResou
 C:\Users\Michel\source\repos\CEOEye\CEOEye\obj\Debug\CEOEye.csproj.CoreCompileInputs.cache
 C:\Users\Michel\source\repos\CEOEye\CEOEye\obj\Debug\CEOEye.exe
 C:\Users\Michel\source\repos\CEOEye\CEOEye\obj\Debug\CEOEye.pdb
+C:\Users\Michel\source\repos\CEOEye\CEOEye\obj\Debug\CEOEye.csprojResolveAssemblyReference.cache
+C:\Users\Michel\source\repos\CEOEye\CEOEye\bin\Debug\itextsharp.dll
+C:\Users\Michel\source\repos\CEOEye\CEOEye\bin\Debug\itextsharp.xml

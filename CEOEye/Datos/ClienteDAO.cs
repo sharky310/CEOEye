@@ -46,14 +46,14 @@ namespace CEOEye.Datos
                 }
                 catch
                 {
-
+                    // Gestionar DNI repetidos
                     MessageBox.Show("Error de ingreso");
-
                     return false;
                 }
             }
             else
             {
+                MessageBox.Show("Problema de conexión a BBDD");
                 return false;
             }
 
