@@ -8,7 +8,7 @@ namespace CEOEye.Negocio
 {
     class Direccion
     {
-        public Direccion(int cp, int numero, string calle, string ciudad)
+        public Direccion(int cp, int numero, String calle, String ciudad)
         {
             this.cp = cp;
             this.numero = numero;
@@ -18,7 +18,7 @@ namespace CEOEye.Negocio
 
         private int cp { get => cp; set => cp = value; }
         private int numero { get => numero; set => numero = value; }
-        private string calle { get => calle; set => calle = value; }
-        private string ciudad { get => ciudad; set => ciudad = value; }
+        private String calle { get => calle; set => calle = value; }
+        private String ciudad { get => ciudad; set => ciudad = value; }
     }
 }

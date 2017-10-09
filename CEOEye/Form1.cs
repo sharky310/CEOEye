@@ -17,6 +17,7 @@ namespace CEOEye
         {
             InitializeComponent();
             InicializarControlesPropios();
+
         }
 
         private void salirToolStripMenuItem_Click(object sender, EventArgs e)
@@ -34,10 +35,16 @@ namespace CEOEye
             barraInfo.Text = "Todo funcionando correctamente";
         }
 
+        public void setBarraInfo(String info)
+        {
+            barraInfo.Text = info;
+        }
+
         private void altaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             AltaCliente formCliente = new AltaCliente();
-            formCliente.Show(this);
+            AddOwnedForm(formCliente);
+            formCliente.Show();
         }
     }
 }
